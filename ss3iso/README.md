@@ -52,7 +52,7 @@ Options:
 -p, --process: the number of processes for parallel computing (default: 8)
 -s, --species: the species under study (default: hg38)
 -P, --Preprocess: run preprocessing on input BAM
--Q, --Quantification: run isoform reconstruction and quantification
+-R, --Reconstruction: run isoform reconstruction
 ```
 
 ## Changelog
